@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptoprice/static/css/main.12d403f9.chunk.css",
+    "main.js": "/cryptoprice/static/js/main.0e4a0af6.chunk.js",
+    "main.js.map": "/cryptoprice/static/js/main.0e4a0af6.chunk.js.map",
+    "runtime-main.js": "/cryptoprice/static/js/runtime-main.6ef688bd.js",
+    "runtime-main.js.map": "/cryptoprice/static/js/runtime-main.6ef688bd.js.map",
+    "static/js/2.6bd734e1.chunk.js": "/cryptoprice/static/js/2.6bd734e1.chunk.js",
+    "static/js/2.6bd734e1.chunk.js.map": "/cryptoprice/static/js/2.6bd734e1.chunk.js.map",
+    "index.html": "/cryptoprice/index.html",
+    "precache-manifest.0a08632e6c3f74f5e4e8f6ebf44ce4bc.js": "/cryptoprice/precache-manifest.0a08632e6c3f74f5e4e8f6ebf44ce4bc.js",
+    "service-worker.js": "/cryptoprice/service-worker.js",
+    "static/css/main.12d403f9.chunk.css.map": "/cryptoprice/static/css/main.12d403f9.chunk.css.map",
+    "static/js/2.6bd734e1.chunk.js.LICENSE.txt": "/cryptoprice/static/js/2.6bd734e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef688bd.js",
+    "static/js/2.6bd734e1.chunk.js",
+    "static/css/main.12d403f9.chunk.css",
+    "static/js/main.0e4a0af6.chunk.js"
+  ]
+}
